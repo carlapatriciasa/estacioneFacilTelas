@@ -1,0 +1,89 @@
+*{padding: 0; margin:0;}
+.escopo3{
+	width: 100%;
+	height: 100%;
+	background-color: #7fadaa;
+}
+.logo{
+	width: 100%;
+	height: 150px;
+	background-color: white;
+}
+.config{
+	width: 12%;
+	height: 80%;
+	background-color: transparent;
+	margin-left: 10px;
+}
+.tempo{
+	width: 40%;
+	height: 80%;
+	background-color: transparent;
+	margin: auto;
+	margin-top: -12%;
+}
+.sair{
+	width: 12%;
+	height: 80%;
+	background-color:transparent;
+	margin-right: 10px;
+	float: right;
+	margin-top: -12%;
+}
+.perfil{
+	width: 50%;
+	height: 40%;
+	background-color: black;
+	margin: auto;
+	margin-top: 10%;
+	border-style: solid;
+	border-color: white;
+	border-radius: 100%;
+}
+.nick{
+	width: 60%;
+	height: 6%;
+	background-color: transparent;
+	margin: auto;
+	margin-top: 4%;
+}
+.nick p{
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	font-family: 'helveica';
+}
+.opcoes{
+	width: 100%;
+	height: 20%;
+	background-color: transparent;
+	margin-top: 8%;
+
+}
+.bot_menu_qrcode{
+	width: 20%;
+	height: 70%;
+	background-color: green;
+	margin-top: 1%;
+}
+.bot_menu_map{
+	width: 20%;
+	height: 70%;
+	background-color: blue;
+	margin-left: 25%;
+	margin-top: -18%;
+}
+}
+.bot_menu_favoritos{
+	width: 20%;
+	height: 70%;
+	background-color: black;
+}
+.bot_menu_pagament{
+	width: 20%;
+	height: 70%;
+	background-color: yellow;
+	float: right;
+	margin-top: -18%;
+}
+}

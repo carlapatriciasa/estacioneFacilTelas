@@ -1,0 +1,154 @@
+*{margin: 0;padding: 0;}
+.escopo{
+	width: 100%;
+	height: 100%;
+	background-color: #7fadaa;
+	margin: auto;
+
+}
+.logo{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+.usuario{
+	width: 100%;
+	height: 100px;
+	background-color: transparent;
+	margin-top: 20%;
+}
+.senha{
+	width: 100%;
+	height: 100px;
+	background-color: transparent;
+	margin-top: 20px;
+}
+.usuario input{
+	height: 80px;
+	font-size: 40px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+
+	
+}
+.senha input{
+	height: 80px;
+	font-size: 40px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+	
+}
+.dentro_user{
+	height: 70px;
+	width: 40px;
+	background-color: transparent;
+	margin-left: 11%;
+	margin-top: -6%;
+}
+.dentro_pass{
+	height: 70px;
+	width: 40px;
+	background-color: transparent;
+	margin-left: 11%;
+	margin-top: -6%;
+}
+.img{
+	width: 60px;
+	height: 60px;
+	background-color: transparent;
+	margin-left: 30px;
+	margin-top: 0;
+}
+.lembrar{
+	width: 100%;
+	height: 8%;
+	background-color: transparent;
+	margin-top: 10px;
+}
+.botao_lembrar{
+	width: 210px;
+	height: 100px;
+	background-color: transparent;
+	margin-left: 10%;
+	color: white;
+	font-size: 28px;
+	font-family: 'helvetica';
+}
+.botao_lembrar input{
+	width: 35px;
+	height: 35px;
+	margin-top: 20px;
+	border-style: solid;
+	border-color: transparent;
+
+}
+.esqueceu_senha{
+	width: 30%;
+	height: 50%;
+	background-color: transparent;
+	float: right;
+	margin-top: -7.5%;
+	margin-right: 6%;
+}
+.esqueceu_senha p {
+	color: white;
+	font-family: 'helvetica';
+	font-size: 28px;
+	font-weight: bold;
+}
+.bot_login{
+	width: 100%;
+	height: 10%;
+	background-color: transparent;
+}
+.login{
+	width: 60%;
+	height: 85%;
+	background-color: #588f96;
+	margin: auto;
+	border-top-left-radius:35px;
+	-webkit-border-top-right-radius:35px;
+	
+	border-top-right-radius:35px;
+	-webkit-border-bottom-right-radius:35px;
+	
+	border-bottom-right-radius:35px;
+	-webkit-border-bottom-left-radius:35px;	
+	
+}
+.login p{
+	font-family: 'helvetica';
+	font-size: 100px;
+	color: white;
+	text-align: center;
+	margin-top: -5%;
+}	
+.bot_regist{
+	width: 100%;
+	height: 10%;
+	background-color: transparent;
+}
+.regist{
+	width: 60%;
+	height: 85%;
+	background-color: #fc5658;
+	margin: auto;
+	border-top-left-radius:35px;
+	-webkit-border-top-right-radius:35px;
+	
+	border-top-right-radius:35px;
+	-webkit-border-bottom-right-radius:35px;
+	
+	border-bottom-right-radius:35px;
+	-webkit-border-bottom-left-radius:35px;	
+	
+}
+.regist p{
+	font-family: 'helvetica';
+	font-size: 95px;
+	color: white;
+	text-align: center;
+	margin-top: -4%;
+}

@@ -1,0 +1,177 @@
+*{padding: 0; margin:0;}
+.escopo3{
+	width: 100%;
+	height: 100%;
+	background-color: #7fadaa;
+}
+.logo{
+	width: 100%;
+	height: 200px;
+	background-color: white;
+}
+.titulo{
+	width: 100%;
+	height: 10%;
+	background-color:transparent;
+}
+.titulo p{
+	font-size: 60px;
+	text-align: center;
+	margin-top: 10px;
+	font-family: 'helvetica';
+	color: white;
+}
+.menu{
+	width: 86%;
+	height: 74.5%;
+	background-color: #588e95;
+	margin: auto;
+	margin-top: 10px;
+
+}	
+.tipo_veiculo{
+	width: 80%;
+	height: 100px;
+	background-color: transparent;
+	
+
+}
+.tipo_veiculo p{
+	font-size: 38px;
+	margin-left: 8px;
+	font-family: 'helvetica';
+	color: white;
+	margin-left: 11px;
+}
+.tipo_veiculo input{
+	height: 50px;
+	font-size: 30px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+	width: 100%;
+}	
+.ano{
+	width: 40%;
+	height: 100px;
+	background-color: transparent;
+	margin-top: 10px;
+}
+.ano p{
+	font-size: 38px;
+	margin-left: 8px;
+	font-family: 'helvetica';
+	color: white;
+	margin-left: 11px;
+}
+.ano input{
+	height: 50px;
+	font-size: 30px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+	width: 70%;
+}
+.placa{
+	width: 54%;
+	height: 100px;
+	background-color: transparent;
+	float: right;
+	margin-top: -99px;
+
+}
+.placa p{
+	font-size: 38px;
+	margin-left: 8px;
+	font-family: 'helvetica';
+	color: white;
+	margin-left: 11px;
+}
+.placa input{
+	height: 50px;
+	font-size: 30px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+	width: 100%;
+}
+.modelo{
+	width: 100%;
+	height: 100px;
+	background-color: transparent;
+	margin-top: 20px;
+}
+.modelo p{
+	font-size: 38px;
+	margin-left: 8px;
+	font-family: 'helvetica';
+	color: white;
+}
+.modelo input{
+	height: 50px;
+	font-size: 30px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+}
+.cor{
+	width: 100%;
+	height: 100px;
+	background-color: transparent;
+	margin-top: 10px;
+}
+.cor p{
+	font-size: 38px;
+	margin-left: 8px;
+	font-family: 'helvetica';
+	color: white;
+}
+.cor input{
+	height: 50px;
+	font-size: 30px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+}
+
+.renavam{
+	width: 100%;
+	height: 100px;
+	background-color: transparent;
+	margin-top: 10px;
+}
+.renavam p{
+	font-size: 38px;
+	margin-left: 8px;
+	font-family: 'helvetica';
+	color: white;
+}
+.renavam input{
+	height: 50px;
+	font-size: 30px;
+	border-style: solid;
+	border-color: transparent;
+	border-radius: 30px 30px 30px 30px;
+}
+
+.Salvar{
+	width: 40%;
+	height: 10%;
+	background-color: #ff5555;
+	margin: auto;
+	border-top-left-radius:60px;
+	-webkit-border-top-right-radius:60px;	
+	border-top-right-radius:60px;
+	-webkit-border-bottom-right-radius:60px;	
+	border-bottom-right-radius:60px;
+	-webkit-border-bottom-left-radius:60px;	
+	margin-top: 50px;	
+	
+}
+.Salvar p{
+	font-family: 'helvetica';
+	font-size: 50px;
+	color: white;
+	text-align: center;
+	margin-top: 1%;	
+}
